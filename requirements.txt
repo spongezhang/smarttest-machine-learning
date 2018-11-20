@@ -1,0 +1,11 @@
+# Function dependencies, for example:
+# package>=version
+
+requests
+opencv_python
+scipy
+numpy
+matplotlib
+Flask
+Pillow
+google_api_python_client
