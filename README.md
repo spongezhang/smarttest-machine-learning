@@ -1,4 +1,5 @@
-# smart-machine-learning
+# Machine Learning & Image Processing Component of SMARTTest
+
 A large-scale image processing/machine learning backend component written in Python. Implemented several image processing,
 feayture extraction, and data augmentation algorithms, a pre-trained fast region-based convolutional network for object
 localization, and a custom convolutional network model for image classification in Python with TensorFlow and OpenCV. The pre-
