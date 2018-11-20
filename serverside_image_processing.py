@@ -270,7 +270,7 @@ def rotateAccordingly(base64_string, crop_image, exif_data):
             print('90 rotation!')
     else:
         exif=dict(image._getexif().items())
-        print('nopee i fouund!!!')
+        print('EXIF EXISTS: is a IPHONE image')
         print(exif)
         if exif[orientation] == 3 :
             rotation = True
